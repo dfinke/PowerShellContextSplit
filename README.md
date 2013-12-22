@@ -1,5 +1,7 @@
 PowerShell Invoke-ContextSplit
 =
+Based on the [UNIX csplit](http://publib.boulder.ibm.com/infocenter/pseries/v5r3/index.jsp?topic=/com.ibm.aix.cmds/doc/aixcmds1/csplit.htm) command
+
 The Invoke-ContextSplit command copies the specified file and separates the copy into segments.
 The original input file, which remains unaltered, must be a text file.
 
